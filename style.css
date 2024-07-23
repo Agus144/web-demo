@@ -1143,6 +1143,7 @@ span.text {
   }
   .nosotros-container-card .card-group{
     flex-direction: column;
+    gap: 0 !important;
   }
   .nosotros-container-card{
     max-width: 35%;
