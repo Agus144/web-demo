@@ -1,0 +1,11 @@
+Model Information:
+* title:	Three of Swords
+* source:	https://sketchfab.com/3d-models/three-of-swords-334ceda969d44dc09aa6583af51d3757
+* author:	AntijnvanderGun (https://sketchfab.com/AntijnvanderGun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Three of Swords" (https://sketchfab.com/3d-models/three-of-swords-334ceda969d44dc09aa6583af51d3757) by AntijnvanderGun (https://sketchfab.com/AntijnvanderGun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
