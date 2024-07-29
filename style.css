@@ -70,8 +70,19 @@ body{
   font-size: 1.2rem;
   font-family: CeraPro, sans-serif;
 }
+.menu-bottom{
+  margin-top: 5rem;
+  font-size: 0.8rem;
+  margin-right: 1rem;
+  font-family: "Josefin Sans";
+  text-align: center;
+}
 
 /*PORTADA*/
+.pre-titulo-portada{
+  font-size: 2rem;
+  font-family: "Berkshire Swash";
+}
 .front{
   background-image: url(https://64.media.tumblr.com/d06461a5d350b828963a83235486d7e8/93171773b514fabc-9f/s500x750/a8f33fc073e0e5e26950e242966a22641414e916.gifv);
   background-size: cover;
@@ -85,7 +96,7 @@ body{
   padding-top: 10rem;
 }
 .contenedor-portada{
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-bottom: 3rem;
   display: flex;
   margin: 0 auto;
@@ -101,7 +112,6 @@ body{
   font-weight: 550;
 }
 .subtitulo-texto-portada{
-  padding-top: 1rem;
   padding-bottom: 1rem;
   margin: 2.5rem 0;
 }
@@ -130,7 +140,7 @@ model-viewer{
 .contenedor-info-n{
   width: 60%;
   margin: 50px auto;
-  padding-top: 7rem;
+  padding-top: 4rem;
   padding-bottom: 7rem;
 }
 .titulo-info-n{
@@ -1168,6 +1178,40 @@ span.text {
   }
   .texto-info-n{
     width: 100%;
+  }
+  .contenedor-portada{
+    width: 75%;
+  }
+  .titulo-texto-portada h1{
+    font-size: 3rem;
+    text-align: center;
+  }
+  .subtitulo-texto-portada h3{
+    font-size: 1rem;
+    text-align: center;
+  }
+  .subtitulo-texto-portada{
+    margin: 0;
+  }
+  .contenedor-portada{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .pre-titulo-portada{
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .portada{
+    padding-top: 9rem;
+  }
+  .button-a-1{
+    text-align: center !important;
+  }
+  .button-a-1 a{
+    padding: 1rem;
+  }
+  .contenedor-info-n{
+    padding-bottom: 0;
   }
 }
 
